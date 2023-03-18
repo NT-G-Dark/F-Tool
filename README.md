@@ -28,7 +28,7 @@
 
 * ```git clone https://github.com/NT-G-Dark/F-Tool```
 * ```cd F-Tool```
-* ```unzip F-Tool```
+* ```unzip F-Tool.zip```
 * ```sh install.sh```
 
 * Install CentOS
